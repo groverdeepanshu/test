@@ -3,5 +3,6 @@ type: APPLICATION_MANIFEST
 gitFileConfig:
   branch: master
   connectorName: DG test
+  filePath: values.yaml
   useBranch: true
 storeType: Remote
