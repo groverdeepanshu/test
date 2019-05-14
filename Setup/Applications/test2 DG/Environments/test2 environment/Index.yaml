@@ -1,0 +1,4 @@
+harnessApiVersion: '1.0'
+type: ENVIRONMENT
+description: test2 environment
+environmentType: NON_PROD
