@@ -3,6 +3,6 @@ type: APPLICATION_MANIFEST
 gitFileConfig:
   branch: master
   connectorName: DG test
-  filePath: values.yaml
+  filePath: https://github.com/groverdeepanshu/test/blob/master/values.yaml
   useBranch: true
 storeType: Remote
