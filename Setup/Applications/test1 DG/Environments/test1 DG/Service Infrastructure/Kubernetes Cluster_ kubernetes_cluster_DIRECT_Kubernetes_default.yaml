@@ -9,3 +9,4 @@ releaseName: ${infra.kubernetes.infraId}
 serviceName: test1
 kind: pod
 metadata:
+  name: nginx
