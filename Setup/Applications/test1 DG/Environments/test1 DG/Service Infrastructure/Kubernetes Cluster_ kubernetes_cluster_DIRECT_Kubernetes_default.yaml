@@ -7,3 +7,4 @@ infraMappingType: DIRECT_KUBERNETES
 namespace: default
 releaseName: ${infra.kubernetes.infraId}
 serviceName: test1
+kind: pod
