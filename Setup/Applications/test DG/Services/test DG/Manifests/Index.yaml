@@ -3,6 +3,5 @@ type: APPLICATION_MANIFEST
 gitFileConfig:
   branch: master
   connectorName: DG test
-  filePath: https://github.com/groverdeepanshu/test/blob/master/
   useBranch: true
 storeType: Remote
