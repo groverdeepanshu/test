@@ -1,6 +1,3 @@
 harnessApiVersion: '1.0'
 type: ENVIRONMENT
 environmentType: NON_PROD
-kind: Deployment
-metadata:
-  name: nginx-deployment
