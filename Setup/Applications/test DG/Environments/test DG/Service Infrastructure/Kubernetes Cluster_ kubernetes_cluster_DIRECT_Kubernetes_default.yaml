@@ -4,6 +4,6 @@ computeProviderName: kubernetes_cluster
 computeProviderType: KUBERNETES_CLUSTER
 deploymentType: KUBERNETES
 infraMappingType: DIRECT_KUBERNETES
-namespace: default
+namespace: harnessrocks
 releaseName: ${infra.kubernetes.infraId}
 serviceName: test DG
